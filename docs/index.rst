@@ -3,7 +3,7 @@ How to Login Private Internet Access Account Easily: A Complete Guide
 
 Private Internet Access (PIA) is one of the most reliable Virtual Private Network (VPN) services available today, known for its strong security, speed, and privacy features. If you’re a PIA user, logging into your account should be a straightforward process. However, some users may face occasional issues with login, especially when using multiple devices or networks. In this guide, we’ll walk you through the process of logging into your PIA account easily, troubleshoot common login problems, and offer tips on managing your VPN settings for a smooth experience.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
